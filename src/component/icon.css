@@ -1,0 +1,15 @@
+.icon{
+    width: 70px;
+    height: 70px;
+    /* background-color: red; */
+    position: fixed;
+    z-index: 9;
+    bottom: 50px;
+    right:80px;
+    border-radius: 50%;
+}
+.iconmess{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
